@@ -12,3 +12,6 @@ Speed3D
 	* Robot AI
 	* Race Road(feature poor)	
 * It's my graduation project.(2012)
+
+### [Vedio By KKCapture](http://player.youku.com/embed/XMzkyMTAyOTcy)
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzkyMTAyOTcy" frameborder=0 allowfullscreen></iframe>
